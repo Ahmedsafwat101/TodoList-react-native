@@ -1,5 +1,5 @@
 # TodoList-react-native
-# Project 1 - SimpleTodo
+# Task 3 - SimpleTodo
 
 **SimpleTodo** is an react-native app that allows building a todo list and basic todo items management functionality including adding new items, and deleting an existing item.
 
